@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with learning new technologies.
 - 💬 Ask me about Advanced Python & Machine Vision
 - 📫 How to reach me:
-[Twitter - @SyedUmaidAhmed4](https://twitter.com/SyedUmaidAhmed4) ,[Research Gate - @SyedUmaidAhmed](https://www.researchgate.net/profile/Syed-Ahmed-86), [YouTube - @SyedUmaidAhmed](https://www.youtube.com/channel/UCGP_OdkIWCuBdoc1EdxWsVQ) , [LinkedIn - @SyedUmaidAhmed](https://www.linkedin.com/in/syed-umaid-ahmed-370680116/)
+[Twitter - @SyedUmaidAhmed4](https://twitter.com/SyedUmaidAhmed4) , [Research Gate - @SyedUmaidAhmed](https://www.researchgate.net/profile/Syed-Ahmed-86), [YouTube - @SyedUmaidAhmed](https://www.youtube.com/channel/UCGP_OdkIWCuBdoc1EdxWsVQ) , [LinkedIn - @SyedUmaidAhmed](https://www.linkedin.com/in/syed-umaid-ahmed-370680116/)
 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend time in learning and sharing about New Technologies.
